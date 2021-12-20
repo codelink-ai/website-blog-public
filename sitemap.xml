@@ -79,6 +79,8 @@
   </url><url>
     <loc>https://blog.codelink.ai/author/</loc>
   </url><url>
+    <loc>https://blog.codelink.ai/contact/</loc>
+  </url><url>
     <loc>https://blog.codelink.ai/about/</loc>
   </url><url>
     <loc>https://blog.codelink.ai/homepage/full/</loc>
@@ -110,7 +112,5 @@
     <loc>https://blog.codelink.ai/terms-conditions/</loc>
   </url><url>
     <loc>https://blog.codelink.ai/search/</loc>
-  </url><url>
-    <loc>https://blog.codelink.ai/contact/</loc>
   </url>
 </urlset>

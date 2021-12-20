@@ -115,6 +115,15 @@ Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, 
     </item>
     
     <item>
+      <title>Contact Us Anytime :)</title>
+      <link>https://blog.codelink.ai/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.codelink.ai/contact/</guid>
+      <description>Ask Us Anything Or just Say Hi,</description>
+    </item>
+    
+    <item>
       <title>Hi, I Am John Doe</title>
       <link>https://blog.codelink.ai/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -250,15 +259,6 @@ By accessing this website we assume you accept these terms and conditions. Do no
       
       <guid>https://blog.codelink.ai/search/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Talk To Me Anytime :)</title>
-      <link>https://blog.codelink.ai/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.codelink.ai/contact/</guid>
-      <description>Ask Us Anything Or just Say Hi, Rather than just filling out a form, Sleeknote also offers help to the user with links directing them to find additional information or take popular actions.</description>
     </item>
     
   </channel>
