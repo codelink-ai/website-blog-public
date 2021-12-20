@@ -2,20 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.codelink.ai/post/</loc>
+    <lastmod>2021-12-19T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://blog.codelink.ai/categories/</loc>
+    <lastmod>2021-12-19T15:40:24+06:00</lastmod>
+  </url><url>
     <loc>https://blog.codelink.ai/</loc>
-    <lastmod>2020-04-14T15:40:24+06:00</lastmod>
+    <lastmod>2021-12-19T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://blog.codelink.ai/tags/learning/</loc>
+    <lastmod>2021-12-19T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://blog.codelink.ai/tags/python/</loc>
+    <lastmod>2021-12-19T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://blog.codelink.ai/categories/python/</loc>
+    <lastmod>2021-12-19T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://blog.codelink.ai/tags/</loc>
+    <lastmod>2021-12-19T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://blog.codelink.ai/post/python/there-are-3-incredible-return-functions-in-python/</loc>
+    <lastmod>2021-12-19T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://blog.codelink.ai/tags/data-science/</loc>
+    <lastmod>2021-12-18T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://blog.codelink.ai/categories/data-science/</loc>
+    <lastmod>2021-12-18T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://blog.codelink.ai/tags/deep-learning/</loc>
+    <lastmod>2021-12-18T15:40:24+06:00</lastmod>
+  </url><url>
+    <loc>https://blog.codelink.ai/post/data-science/meta-ai-has-created-a-wonderful-world-of-stickman/</loc>
+    <lastmod>2021-12-18T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://blog.codelink.ai/shop/product-3/</loc>
     <lastmod>2020-04-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://blog.codelink.ai/shop/</loc>
     <lastmod>2020-04-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/post/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/categories/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://blog.codelink.ai/post/elements/</loc>
     <lastmod>2020-03-15T15:40:24+06:00</lastmod>
@@ -29,70 +56,22 @@
     <loc>https://blog.codelink.ai/categories/photography/</loc>
     <lastmod>2020-03-15T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://blog.codelink.ai/tags/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://blog.codelink.ai/shop/product-7/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/tags/booth/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/post/post-1/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/post/post-2/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/post/post-3/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/post/post-4/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/post/post-5/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/post/post-6/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/tags/city/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://blog.codelink.ai/shop/product-6/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://blog.codelink.ai/categories/four-seasone/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://blog.codelink.ai/shop/product-1/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
-    <loc>https://blog.codelink.ai/tags/new/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/categories/newyork-city/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/categories/photobooth/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
     <loc>https://blog.codelink.ai/shop/product-4/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/tags/seasone/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://blog.codelink.ai/shop/product-2/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://blog.codelink.ai/shop/product-8/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/tags/video/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-  </url><url>
-    <loc>https://blog.codelink.ai/categories/videography/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
   </url><url>
     <loc>https://blog.codelink.ai/shop/product-5/</loc>

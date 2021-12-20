@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning on Codelink AI blog | Keep up with the latest AI technologies</title>
+    <link>https://blog.codelink.ai/tags/learning/</link>
+    <description>Recent content in learning on Codelink AI blog | Keep up with the latest AI technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 © CodeLink Consulting LLC. All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 19 Dec 2021 15:40:24 +0600</lastBuildDate><atom:link href="https://blog.codelink.ai/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>There are 3 incredible return functions in Python</title>
+      <link>https://blog.codelink.ai/post/python/there-are-3-incredible-return-functions-in-python/</link>
+      <pubDate>Sun, 19 Dec 2021 15:40:24 +0600</pubDate>
+      
+      <guid>https://blog.codelink.ai/post/python/there-are-3-incredible-return-functions-in-python/</guid>
+      <description>Today we share with you 3 relatively cold knowledge
+ The first one: the magic dictionary key  some_dict = {} some_dict[5.5] = &amp;#34;Ruby&amp;#34; some_dict[5.0] = &amp;#34;JavaScript&amp;#34; some_dict[5] = &amp;#34;Python&amp;#34; Output:
+&amp;gt;&amp;gt;&amp;gt; some_dict[5.5] &amp;#34;Ruby&amp;#34; &amp;gt;&amp;gt;&amp;gt; some_dict[5.0] &amp;#34;Python&amp;#34; &amp;gt;&amp;gt;&amp;gt; some_dict[5] &amp;#34;Python&amp;#34; &amp;ldquo;Python&amp;rdquo; eliminates the existence of &amp;ldquo;JavaScript&amp;rdquo;?
+💡 Description:
+  The Python dictionary determines whether two keys are identical by checking for key equality and comparing hash values.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deep learning on Codelink AI blog | Keep up with the latest AI technologies</title>
+    <link>https://blog.codelink.ai/tags/deep-learning/</link>
+    <description>Recent content in deep learning on Codelink AI blog | Keep up with the latest AI technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2021 © CodeLink Consulting LLC. All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 18 Dec 2021 15:40:24 +0600</lastBuildDate><atom:link href="https://blog.codelink.ai/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meta AI has created a wonderful world of stickman</title>
+      <link>https://blog.codelink.ai/post/data-science/meta-ai-has-created-a-wonderful-world-of-stickman/</link>
+      <pubDate>Sat, 18 Dec 2021 15:40:24 +0600</pubDate>
+      
+      <guid>https://blog.codelink.ai/post/data-science/meta-ai-has-created-a-wonderful-world-of-stickman/</guid>
+      <description>Have you ever thought of animating a child&amp;rsquo;s drawing? As shown below, children can draw unique and creative characters and animals: a star with two legs, a bird with super long legs &amp;hellip;&amp;hellip;
+Image
+Parents and teachers can easily understand what a child&amp;rsquo;s drawing is trying to convey, but AI has a hard time with this task because children&amp;rsquo;s drawings are often constructed in abstract and peculiar ways.</description>
+    </item>
+    
+  </channel>
+</rss>

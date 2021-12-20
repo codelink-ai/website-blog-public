@@ -7,7 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 © CodeLink Consulting LLC. All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 15 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://blog.codelink.ai/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Dec 2021 15:40:24 +0600</lastBuildDate><atom:link href="https://blog.codelink.ai/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>learning</title>
+      <link>https://blog.codelink.ai/tags/learning/</link>
+      <pubDate>Sun, 19 Dec 2021 15:40:24 +0600</pubDate>
+      
+      <guid>https://blog.codelink.ai/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://blog.codelink.ai/tags/python/</link>
+      <pubDate>Sun, 19 Dec 2021 15:40:24 +0600</pubDate>
+      
+      <guid>https://blog.codelink.ai/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data science</title>
+      <link>https://blog.codelink.ai/tags/data-science/</link>
+      <pubDate>Sat, 18 Dec 2021 15:40:24 +0600</pubDate>
+      
+      <guid>https://blog.codelink.ai/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>https://blog.codelink.ai/tags/deep-learning/</link>
+      <pubDate>Sat, 18 Dec 2021 15:40:24 +0600</pubDate>
+      
+      <guid>https://blog.codelink.ai/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>image</title>
       <link>https://blog.codelink.ai/tags/image/</link>
@@ -23,51 +59,6 @@
       <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
       
       <guid>https://blog.codelink.ai/tags/photo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>booth</title>
-      <link>https://blog.codelink.ai/tags/booth/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://blog.codelink.ai/tags/booth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>city</title>
-      <link>https://blog.codelink.ai/tags/city/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://blog.codelink.ai/tags/city/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>new</title>
-      <link>https://blog.codelink.ai/tags/new/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://blog.codelink.ai/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>seasone</title>
-      <link>https://blog.codelink.ai/tags/seasone/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://blog.codelink.ai/tags/seasone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>video</title>
-      <link>https://blog.codelink.ai/tags/video/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://blog.codelink.ai/tags/video/</guid>
       <description></description>
     </item>
     

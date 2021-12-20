@@ -7,7 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2021 © CodeLink Consulting LLC. All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 15 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://blog.codelink.ai/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Dec 2021 15:40:24 +0600</lastBuildDate><atom:link href="https://blog.codelink.ai/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>There are 3 incredible return functions in Python</title>
+      <link>https://blog.codelink.ai/post/python/there-are-3-incredible-return-functions-in-python/</link>
+      <pubDate>Sun, 19 Dec 2021 15:40:24 +0600</pubDate>
+      
+      <guid>https://blog.codelink.ai/post/python/there-are-3-incredible-return-functions-in-python/</guid>
+      <description>Today we share with you 3 relatively cold knowledge
+ The first one: the magic dictionary key  some_dict = {} some_dict[5.5] = &amp;#34;Ruby&amp;#34; some_dict[5.0] = &amp;#34;JavaScript&amp;#34; some_dict[5] = &amp;#34;Python&amp;#34; Output:
+&amp;gt;&amp;gt;&amp;gt; some_dict[5.5] &amp;#34;Ruby&amp;#34; &amp;gt;&amp;gt;&amp;gt; some_dict[5.0] &amp;#34;Python&amp;#34; &amp;gt;&amp;gt;&amp;gt; some_dict[5] &amp;#34;Python&amp;#34; &amp;ldquo;Python&amp;rdquo; eliminates the existence of &amp;ldquo;JavaScript&amp;rdquo;?
+💡 Description:
+  The Python dictionary determines whether two keys are identical by checking for key equality and comparing hash values.</description>
+    </item>
+    
+    <item>
+      <title>Meta AI has created a wonderful world of stickman</title>
+      <link>https://blog.codelink.ai/post/data-science/meta-ai-has-created-a-wonderful-world-of-stickman/</link>
+      <pubDate>Sat, 18 Dec 2021 15:40:24 +0600</pubDate>
+      
+      <guid>https://blog.codelink.ai/post/data-science/meta-ai-has-created-a-wonderful-world-of-stickman/</guid>
+      <description>Have you ever thought of animating a child&amp;rsquo;s drawing? As shown below, children can draw unique and creative characters and animals: a star with two legs, a bird with super long legs &amp;hellip;&amp;hellip;
+Image
+Parents and teachers can easily understand what a child&amp;rsquo;s drawing is trying to convey, but AI has a hard time with this task because children&amp;rsquo;s drawings are often constructed in abstract and peculiar ways.</description>
+    </item>
+    
     <item>
       <title>Elements That You Can Use To Create A New Post On This Template.</title>
       <link>https://blog.codelink.ai/post/elements/</link>
@@ -16,60 +40,6 @@
       <guid>https://blog.codelink.ai/post/elements/</guid>
       <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules. For example: use # for heading 1 and use ###### for heading 6.
 Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
-      <link>https://blog.codelink.ai/post/post-1/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://blog.codelink.ai/post/post-1/</guid>
-      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</description>
-    </item>
-    
-    <item>
-      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
-      <link>https://blog.codelink.ai/post/post-2/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://blog.codelink.ai/post/post-2/</guid>
-      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</description>
-    </item>
-    
-    <item>
-      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
-      <link>https://blog.codelink.ai/post/post-3/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://blog.codelink.ai/post/post-3/</guid>
-      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</description>
-    </item>
-    
-    <item>
-      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
-      <link>https://blog.codelink.ai/post/post-4/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://blog.codelink.ai/post/post-4/</guid>
-      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</description>
-    </item>
-    
-    <item>
-      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
-      <link>https://blog.codelink.ai/post/post-5/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://blog.codelink.ai/post/post-5/</guid>
-      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</description>
-    </item>
-    
-    <item>
-      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
-      <link>https://blog.codelink.ai/post/post-6/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      
-      <guid>https://blog.codelink.ai/post/post-6/</guid>
-      <description>It’s no secret that the digital industry is booming. From exciting startups to global brands, companies are reaching out to digital agencies, responding to the new possibilities available. However, the industry is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least. Producing creative, fresh projects is the key to standing out.</description>
     </item>
     
   </channel>
